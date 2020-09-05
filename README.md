@@ -1,2 +1,2 @@
-# VARIATIONAL-ASYMPTOTIC-PRESERVING-SCHEME-FORVLASOV-POISSON-FOKKER-PLANCK-SYSTEM
-This project provides part of code for paper [VARIATIONAL-ASYMPTOTIC-PRESERVING-SCHEME-FORVLASOV-POISSON-FOKKER-PLANCK-SYSTEM](https://arxiv.org/abs/2007.01969) 
+# Introduction
+This project provides part of code for paper [VARIATIONAL-ASYMPTOTIC-PRESERVING-SCHEME-FORVLASOV-POISSON-FOKKER-PLANCK-SYSTEM](https://arxiv.org/abs/2007.01969). Include 1D,2D,3D spatially homogeneous case and 1D spatailly inhomogeneous case. Line search technique is used and superlinear convergence rate is observed in spatially homogeneous case(by output t_k and will see t_k=1 gradually). Asymptotic presrving property can be verified by recording and compare result of different magnitude of \varepsilon.
