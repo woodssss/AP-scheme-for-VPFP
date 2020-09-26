@@ -14,7 +14,7 @@ AP_check
 ```
 ## Mix regime and VFP evolution
 ```
-PN_VPFP_1D_mix_muscl
+PN_VPFP_1D_mix_muscl, PN_search_VPFP_1D
 ```
 ## High dimension sptially homogeneous evolution
 ```
