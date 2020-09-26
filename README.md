@@ -12,11 +12,11 @@ robust_search_tau, robust_search_epsi, robust_search_Nv
 ```
 AP_check
 ```
-## Mix regime and VFP system
+## Mix regime and VFP evolution
 ```
 PN_VPFP_1D_mix_muscl
 ```
-## High dimension evolution
+## High dimension sptially homogeneous evolution
 ```
 PN_2D_search_evo, PN_3D_search_evo
 ```
